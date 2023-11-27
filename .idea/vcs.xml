@@ -4,5 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DownSource" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FromBitbucketHello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/next_tree" vcs="Git" />
   </component>
 </project>
